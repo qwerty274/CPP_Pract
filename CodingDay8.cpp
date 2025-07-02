@@ -50,7 +50,8 @@ void print6(int n){
     }
 }
 void print7(int n){
-    
+    for(int i=1;i<=n;i++){
+    }
 }
 int main() {
 int n;
