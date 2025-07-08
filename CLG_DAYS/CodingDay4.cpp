@@ -2,12 +2,12 @@
 #include <iostream>
 using namespace std;
 int main() {
-    int a=1,b=2;
+    int a=100,b=200;
     //bit wise xor methods
     a = a ^ b;//3
     b = a ^ b;//1
     a = a ^ b;//2
-    cout<<"value of a: "<<a<<"value of b "<<b;
+    cout<<"value of a: "<<a<<endl<<"value of b "<<b;
     //simple additon subs method 
 // a=a+b;//3
 // b=a-b;//1
