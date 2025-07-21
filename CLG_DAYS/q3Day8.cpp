@@ -8,7 +8,7 @@ double compoundInterest(double p, double r,  int t) {
 
 int main() {
     double p, r;
-    int n, t;
+    int t;
 
     cout << "Enter Principal amount: ";
     cin >> p;
